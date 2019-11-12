@@ -1,2 +1,2 @@
 # sushi-project
-with ukrainian language
+with english language
